@@ -1,0 +1,6 @@
+/Users/home/Documents/week33/week33/bin/Debug/week33.exe
+/Users/home/Documents/week33/week33/bin/Debug/week33.pdb
+/Users/home/Documents/week33/week33/obj/Debug/week33.csprojAssemblyReference.cache
+/Users/home/Documents/week33/week33/obj/Debug/week33.csproj.CoreCompileInputs.cache
+/Users/home/Documents/week33/week33/obj/Debug/week33.exe
+/Users/home/Documents/week33/week33/obj/Debug/week33.pdb
